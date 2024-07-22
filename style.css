@@ -6,6 +6,12 @@ body {
     background-color: blue;
     color: white;
     text-align: center;
+    padding: 10px;
+    margin: auto;
+    border: 10px black;
+    height: 25px;
+    width: 300px;
+
 }
 p {
    font-size: 20px;
@@ -15,6 +21,8 @@ p {
 
 li {
     font-size: 18px;
+    margin: 25px;
+    border: 20px black;
 }
 .bana {
     color: rgb(216, 216, 22);
