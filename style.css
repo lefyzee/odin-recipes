@@ -7,3 +7,21 @@ body {
     color: white;
     text-align: center;
 }
+p {
+   font-size: 20px;
+   text-align: center;
+}
+/*index page list for color of recipes*/
+
+li {
+    font-size: 18px;
+}
+.bana {
+    color: rgb(216, 216, 22);
+}
+.choc {
+    color: rgb(211, 83, 9);
+}
+.muf {
+    color: goldenrod;
+}
